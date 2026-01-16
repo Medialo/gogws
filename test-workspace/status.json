@@ -1,0 +1,31 @@
+{
+  "total": 2,
+  "clean": 1,
+  "changed": 1,
+  "missing": 0,
+  "errors": 0,
+  "repositories": [
+    {
+      "path": "repo1",
+      "exists": true,
+      "clean": false,
+      "branch": "master",
+      "ahead": 0,
+      "behind": 0,
+      "uncommitted": 1,
+      "untracked": 0,
+      "has_remote": true
+    },
+    {
+      "path": "repo2",
+      "exists": true,
+      "clean": true,
+      "branch": "master",
+      "ahead": 0,
+      "behind": 0,
+      "uncommitted": 0,
+      "untracked": 0,
+      "has_remote": true
+    }
+  ]
+}
