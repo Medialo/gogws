@@ -1,0 +1,4 @@
+parallel: 10
+hooks:
+  pre_init: ./hooks/pre-init.sh
+  post_init: ./hooks/post-init.sh
